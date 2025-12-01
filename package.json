@@ -1,12 +1,12 @@
 {
-  "name": "DANUWA-MD",
+  "name": "OSHIYA-MD",
   "version": "1.0.0",
-  "description": "A Powerfull Whatsapp Bot",
+  "description": "🎭A Powerfull Whatsapp Bot OSHIYA-MD🎭",
   "main": "index.js",
   "scripts": {
-    "start": "pm2 start index.js --deep-monitoring --attach --name DANUWA-MD",
-    "stop": "pm2 stop DANUWA-MD",
-    "restart": "pm2 restart DANUWA-MD"
+    "start": "pm2 start index.js --deep-monitoring --attach --name OSHIYA-MD",
+    "stop": "pm2 stop OSHIYA-MD",
+    "restart": "pm2 restart OSHIYA-MD"
   },
   "dependencies": {
     "@whiskeysockets/baileys": "^6.7.16",
